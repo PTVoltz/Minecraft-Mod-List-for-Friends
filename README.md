@@ -1,6 +1,6 @@
 # Minecraft-Mod-List-for-Friends
 
-Detail Mods:
+# Detail Mods:
 
   Custom Player Models:         https://www.curseforge.com/minecraft/mc-mods/custom-player-models
   
@@ -28,25 +28,25 @@ Detail Mods:
   
   Additional Bars (gold bars):  https://www.curseforge.com/minecraft/mc-mods/additional-bars
   
-=============================================================================================
+==================================================================================
 
-Magic:
+# Magic:
 
   Fancy Magic Mod:              https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai
   
   Extra Alchemy (more potions): https://www.curseforge.com/minecraft/mc-mods/extra-alchemy
   
-=============================================================================================  
+==================================================================================
   
-Technology:
+# Technology:
 
   Storage Drawers:              https://www.curseforge.com/minecraft/mc-mods/storage-drawers
   
   Applied Energistics:          https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
   
-=============================================================================================
+=================================================================================
 
-Exploration/World-Gen:
+# Exploration/World-Gen:
 
   Biomes O' Plenty:             https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
   
@@ -56,9 +56,9 @@ Exploration/World-Gen:
   
   Twilight Forest:              https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
   
-=============================================================================================
+==================================================================================
 
-Other:
+# Other:
 
   Cooking for Blockheads:       https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
   
