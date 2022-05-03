@@ -61,11 +61,11 @@ Other:
 
   Cooking for Blockheads:       https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
   
-  Pams Harvestcraft:            https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
+  Pams Harvestcraft (1):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
   
-                                https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
+                    (2):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
                                 
-                                https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
+                    (3):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
                                 
-                                https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
+                    (4):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
                                 
