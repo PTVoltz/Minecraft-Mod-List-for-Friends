@@ -28,15 +28,15 @@ Detail Mods:
   
   Additional Bars (gold bars):  https://www.curseforge.com/minecraft/mc-mods/additional-bars
   
-  
-  
+=============================================================================================
+
 Magic:
 
   Fancy Magic Mod:              https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai
   
   Extra Alchemy (more potions): https://www.curseforge.com/minecraft/mc-mods/extra-alchemy
   
-  
+=============================================================================================  
   
 Technology:
 
@@ -44,7 +44,7 @@ Technology:
   
   Applied Energistics:          https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
   
-
+=============================================================================================
 
 Exploration/World-Gen:
 
@@ -56,7 +56,8 @@ Exploration/World-Gen:
   
   Twilight Forest:              https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
   
-  
+=============================================================================================
+
 Other:
 
   Cooking for Blockheads:       https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
