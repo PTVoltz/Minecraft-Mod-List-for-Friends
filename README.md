@@ -1,6 +1,6 @@
 # Minecraft-Mod-List-for-Friends
 
-# Detail Mods:
+## Detail Mods:
 
   Custom Player Models:         https://www.curseforge.com/minecraft/mc-mods/custom-player-models
   
@@ -30,7 +30,7 @@
   
 ===========================================================================
 
-# Magic:
+## Magic:
 
   Fancy Magic Mod:              https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai
   
@@ -38,7 +38,7 @@
   
 ===========================================================================
   
-# Technology:
+## Technology:
 
   Storage Drawers:              https://www.curseforge.com/minecraft/mc-mods/storage-drawers
   
@@ -46,7 +46,7 @@
   
 ===========================================================================
 
-# Exploration/World-Gen:
+## Exploration/World-Gen:
 
   Biomes O' Plenty:             https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
   
@@ -58,7 +58,7 @@
   
 ===========================================================================
 
-# Other:
+## Other:
 
   Cooking for Blockheads:       https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
   
