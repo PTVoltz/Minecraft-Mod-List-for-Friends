@@ -63,9 +63,9 @@ Other:
   
   Pams Harvestcraft (1):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
   
-                    (2):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
+  Pams Crops (2):               https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
                                 
-                    (3):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
+  Pams Trees (3):               https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
                                 
-                    (4):        https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
+  Pams Food Extended (4):       https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
                                 
