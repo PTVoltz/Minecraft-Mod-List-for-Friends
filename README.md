@@ -1,6 +1,7 @@
 # Minecraft-Mod-List-for-Friends
 
-Detail Mods
+Detail Mods:
+
   Custom Player Models:         https://www.curseforge.com/minecraft/mc-mods/custom-player-models
   Cosmetic Armor:               https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
   Chisels and Bits:             https://www.curseforge.com/minecraft/mc-mods/chisels-bits
